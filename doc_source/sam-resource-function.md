@@ -338,6 +338,9 @@ Properties:
       Properties:
         Path: /path
         Method: get
+  Tags:
+    FirstTag: This is the value
+    SecondTag: SecondTagValue
 ```
 
 ### ImageConfig example<a name="sam-resource-function--examples--imageconfig-example"></a>
